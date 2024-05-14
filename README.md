@@ -1,6 +1,6 @@
 <h1 align="center">
     Hi <img src="./assets/Hi.gif" width="30px"> <br>
-    I'm <b>CMS Expert</b> (HiCMSDev)
+    I'm <b>FullStack Developer</b>
 </h1>
 <div align="center">
 <!-- website -->
@@ -13,7 +13,7 @@
 </div>
 <br>
 ## 🚀 About Me
-I'm a CMS developer, especially like Wordpress plugin development...
+I'm a Full-stack developer, especially like Wordpress plugin development...
 
 <!-- activity graph heroku-app start -->
 <p align="center">
